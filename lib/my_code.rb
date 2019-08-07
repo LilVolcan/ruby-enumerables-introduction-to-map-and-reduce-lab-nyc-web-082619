@@ -28,8 +28,7 @@ def reduce_to_all_true(source_array)
     end 
     i += 1 
   end 
-    else 
-      true 
+  return true 
 end 
 
 # reduce_to_any_true(source_array)
